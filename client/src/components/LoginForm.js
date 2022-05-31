@@ -1,4 +1,4 @@
-// see SignupForm.js for comments
+
 import React, { useState } from "react";
 import { useMutation } from "@apollo/react-hooks";
 import { Form, Button, Alert } from "react-bootstrap";
