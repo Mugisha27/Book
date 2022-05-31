@@ -16,7 +16,7 @@ A fully functioning Google Books API search engine built with a RESTful API, and
 
 ## INSTALLATION
 Set up an Apollo Server to use GraphQL queries and mutations to fetch and modify data, replacing the existing RESTful API, Modify the existing authentication middleware so that it works in the context of a GraphQL API.
-![Installation]()
+![Installation](img/screenshot.png)
     
 ## USAGE
 AS AN avid reader
