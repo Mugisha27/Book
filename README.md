@@ -26,8 +26,7 @@ SO THAT I can keep a list of books to purchase
 ![Usage](images//Users/chrismugisha/Desktop/readm/images/title.png)
     
 ## LICENSE
-[![License: MIT License](https://img.shields.io/badge/License-MIT License-blue.svg)](https://opensource.org/licenses/MIT License)
-![License](images/Users/chrismugisha/Desktop/readm/images/license.png)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 The license included for the project is under MIT License
 
 ## CHALLENGES FACED
